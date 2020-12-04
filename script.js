@@ -92,7 +92,9 @@ $(".q").on("mouseleave",function(){
   $(".toplayer2").css("opacity","1");
 });
 
+  $(".transcript).window.location.replace("https://mayameapen123.github.io/Convoabout.github.io/");
+  $(".about).window.location.replace("https://mayameapen123.github.io/convo2.github.io/");
+  
 });
 
-$(".transcript).window.location.replace("https://mayameapen123.github.io/Convoabout.github.io/");
-  $(".about).window.location.replace("https://mayameapen123.github.io/convo2.github.io/");
+
