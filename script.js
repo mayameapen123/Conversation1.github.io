@@ -1,16 +1,17 @@
 function myFunction() {
   alert("Hello! I am an alert box!");
 }
+
 $(".quest2").hide();
 
 
 
 $(".num01").on("click",function(){
   $(".num01").css("opacity","1");
-$("button .num02").css("opacity","0.5");
-$(".num03").css("opacity","0.5");
+  $("button .num02").css("opacity","0.5");
+  $(".num03").css("opacity","0.5");
   $(".quest2").hide();
-    $(".quest3").hide();
+  $(".quest3").hide();
   $(".quest1").show();
   $(".quest1").css("opacity","1");
 var krissy_question2 = "KQ1.mp4";
@@ -82,17 +83,7 @@ $('.Mallu').attr('src', mal);
 $('.Anjali').attr('src', an);
 });
 
-
-
-
-$(".q").on("mouseenter",function(){
-  $(".toplayer2").css("opacity","0.2");
-   
-});
-
-$(".q").on("mouseleave",function(){
-  $(".toplayer2").css("opacity","1");
-});
+);
 
   
 
