@@ -1,4 +1,6 @@
-alert("hello");
+function myFunction() {
+  alert("Hello! I am an alert box!");
+}
 $(".quest2").hide();
 
 
