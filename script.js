@@ -69,7 +69,7 @@ $(".num01").css("opacity","0.5");
         $(".quest2").css("opacity","0");
         var krissy_question3 = "KQ3.mp4";
 $('.Krissy').attr('src', krissy_question3);
-var krissy_question2 = "kQ3.mp4";
+var krissy_question2 = "KQ3.mp4";
 var pun = "Cq3.mp4";
 var nir = "NQ3.mp4";
 var mal = "AQ3.mp4";
