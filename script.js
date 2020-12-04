@@ -83,7 +83,7 @@ $('.Mallu').attr('src', mal);
 $('.Anjali').attr('src', an);
 });
 
-);
+
 
   
 
