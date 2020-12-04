@@ -1,4 +1,4 @@
-$(document).ready( function() {
+alert("hello");
 $(".quest2").hide();
 
 
@@ -95,6 +95,5 @@ $(".q").on("mouseleave",function(){
   $(".transcript).window.location.replace("https://mayameapen123.github.io/Convoabout.github.io/");
   $(".about).window.location.replace("https://mayameapen123.github.io/convo2.github.io/");
   
-});
 
 
