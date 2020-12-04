@@ -94,5 +94,5 @@ $(".q").on("mouseleave",function(){
 
 });
 
-$(".transcript).window.location.replace("https://mayameapen123.github.io/convo2.github.io/");
-  $(".about).window.location.replace("https://mayameapen123.github.io/Convoabout.github.io/");
+$(".transcript).window.location.replace("https://mayameapen123.github.io/Convoabout.github.io/");
+  $(".about).window.location.replace("https://mayameapen123.github.io/convo2.github.io/");
